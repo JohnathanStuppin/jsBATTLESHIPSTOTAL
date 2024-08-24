@@ -1,1 +1,1 @@
-# jsBATTLESHIPSTOTAL
+Please run the python file 
